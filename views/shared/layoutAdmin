@@ -31,7 +31,7 @@
                         <img alt="image" class="img-circle img-sm" src="@config.LogoPath">
                     </div>
 				</li>
-				<li>
+				<li class="none">
                     <a href="/admin">
                         <i class="fa fa-bar-chart-o"></i>
                         <span class="nav-label">@__("layoutAdmin.web_statistic")</span>
