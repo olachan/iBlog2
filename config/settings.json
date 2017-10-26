@@ -11,8 +11,8 @@
   "StatisticsId": "",
   "EnableShare": "true",
   "JiaThisId": "",
-  "ShowComments": "true",
-  "ShowGuestbook": "true",
+  "ShowComments": "false",
+  "ShowGuestbook": "false",
   "ChangyanId": "",
   "ChangyanConf": ""
 }
