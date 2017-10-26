@@ -1,5 +1,5 @@
 ﻿$(function () {
-    $("#side-menu>li:eq(1)").addClass("active");
+    $("#side-menu>li:eq(1)").addClass("active").siblings().removeClass("active");
 
     $(".fileupload").fileupload({
         url: "/admin/uploadimg",

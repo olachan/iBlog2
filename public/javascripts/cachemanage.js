@@ -1,5 +1,5 @@
 ﻿$(function () {
-    $("#side-menu>li:eq(2)").addClass("active");
+    $("#side-menu>li:eq(2)").addClass("active").siblings().removeClass("active");
 
     $('#keyinput').on('changed.fu.combobox', function (evt, data) {
         if (data.value) {
