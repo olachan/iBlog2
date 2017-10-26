@@ -1,7 +1,7 @@
 ﻿var $table = $("#exceptions");
 
 $(function () {
-    $("#side-menu>li:eq(3)").addClass("active").siblings().removeClass("active");
+    $("#side-menu>li:eq(4)").addClass("active").siblings().removeClass("active");
 
     $table.bootstrapTable({
         url: "/admin/getExceptions",
