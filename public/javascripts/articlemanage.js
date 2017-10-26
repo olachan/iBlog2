@@ -3,7 +3,7 @@
     selections = [];
 
 $(function () {
-    $("#side-menu>li:eq(2)").addClass("active").find("ul").addClass("in").find("li:eq(2)").addClass("active");
+    $("#side-menu>li:eq(0)").addClass("active").find("ul").addClass("in").find("li:eq(2)").addClass("active");
 
     if (selections.length == 0) {
         $remove.attr("disabled", "disabled");
