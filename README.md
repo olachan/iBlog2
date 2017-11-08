@@ -36,7 +36,7 @@ _不仅仅是博客，更是 Demo_，适合新人入门学习的完整项目。
 * 模板引擎 [Saker](https://github.com/eshengsky/saker) (master分支) / [Jade](https://pugjs.org/) (Jade-template分支)
 * JS库 [jQuery](http://jquery.com/)
 * UI库 [Bootstrap 3](http://getbootstrap.com/)
-* 持久化 [MongoDB](https://www.mongodb.org/)
+* 持久化 [MongoDB](https://www.mongodb.org/) location /var/lib/mongodb
 * 缓存（可选） [Redis](http://redis.io/)
 * 日志 [winston](https://github.com/winstonjs/winston/)
 
